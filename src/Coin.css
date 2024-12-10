@@ -41,6 +41,7 @@
 }
 .coin-volume{
     width: 230px;
+    padding-right: 25px;
 }
 .coin-marketcap{
     width: 155px;
